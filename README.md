@@ -17,3 +17,7 @@ the accuracy with which the model could detect the known face images and its beh
 face images not in the training set and non-face images.
 
 Out of the 15 test images from the data set, the model could identify 14 images correctly. From the 1 unknown face image and 2 non-face images not in the dataset, the algorithm correctly identifies 1 inknown face image and 1 non-face image.
+
+References
+[1] M. Turk and A. Pentland, \Eigenfaces for Recognition," J. Cognitive Neuroscience, vol. 3, no. 1, 1991.
+[2] http://vision.ucsd.edu/content/yale-face-database
